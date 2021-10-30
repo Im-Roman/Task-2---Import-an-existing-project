@@ -1,5 +1,9 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+*.old
+*.Thumbs.db
+*.DS_Store
