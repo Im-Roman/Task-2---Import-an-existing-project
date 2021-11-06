@@ -1,0 +1,9 @@
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+*.old
+*.Thumbs.db
+*.DS_Store
